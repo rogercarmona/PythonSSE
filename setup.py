@@ -6,4 +6,5 @@ setup(name='ServerSideExtension_pb2',
       author_email="qlik@qlik.com",
       license="MIT License",
       url="https://github.com/qlik-oss/server-side-extension",
+      py_modules=['ServerSideExtension_pb2']
 )
