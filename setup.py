@@ -1,4 +1,4 @@
-from pytools import setup
+from setuptools import setup
 
 setup(name='ServerSideExtension_pb2',
       version='1.0',
